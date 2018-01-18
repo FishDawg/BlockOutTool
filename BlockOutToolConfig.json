@@ -1,0 +1,29 @@
+﻿{
+  "notes": "Valid color names found here: http://www.pardesiservices.com/Softomatix/ColorChart.asp",
+  "blocks": [
+    {
+      "x": 300,
+      "y": 300,
+      "width": 25,
+      "height": 50,
+      "color": "DarkRed",
+      "opacity": 75
+    },
+    {
+      "x": 600,
+      "y": 400,
+      "width": 500,
+      "height": 250,
+      "color": "SlateGray",
+      "opacity": 100
+    },
+    {
+      "x": 800,
+      "y": 200,
+      "width": 100,
+      "height": 100,
+      "color": "ActiveCaption",
+      "opacity": 75
+    }
+  ]
+}
